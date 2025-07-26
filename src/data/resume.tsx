@@ -8,7 +8,7 @@ export const DATA = {
   location: "West Bengal, India",
   locationLink: "https://www.google.com/maps/place/Ballabhpur,+West+Bengal+721156/@22.4401349,87.5544699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02acf70e455695:0x549a3f2a6d520284!8m2!3d22.4397866!4d87.5550361!16s%2Fg%2F12hlhq522?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
   description:
-    "M.Sc. Big Data Analytics (Data Science) Student",
+    "An M.Sc. Big Data Analytics (Data Science) Student",
   summary:
     "Passionate about exploring the fields of Machine Learning, Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Time Series Analysis, Finance, Agentic AI, and Computer Vision. Always eager to learn, apply new concepts, and take on meaningful challenges in data-driven domains. ",
   avatarUrl: "/me.jpg",
@@ -166,7 +166,7 @@ export const DATA = {
       end: "Present",
     },
     {
-      school: "University of Ramakrishna Mission Vidyamandira",
+      school: "Ramakrishna Mission Vidyamandira",
       href: "https://vidyamandira.ac.in/",
       degree: "B.Sc. in Mathematics Hons.",
       logoUrl: "/rkm_logo.png",
@@ -327,7 +327,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Top 2 % Scorer",
+      title: "Top 2% Scorer",
       dates: "Nov 2024",
       location: "",
       description:
